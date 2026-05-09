@@ -52,7 +52,7 @@ export default function Navbar() {
         {/* Buttons */}
         <div className="hidden items-center gap-3 md:flex">
           <Link
-            href="/quote"
+            href="/contact"
             className="rounded-xl border border-accent px-5 py-2 text-sm text-white hover:bg-secondary"
           >
             Get Quote
@@ -102,7 +102,7 @@ export default function Navbar() {
     {/* Buttons */}
     <div className="mt-auto flex flex-col gap-3">
       <Link
-        href="/quote"
+        href="/contact"
         onClick={() => setIsOpen(false)}
         className="rounded-xl border border-secondary px-5 py-3 text-center text-sm font-medium text-white transition hover:bg-secondary"
       >
