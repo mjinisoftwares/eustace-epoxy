@@ -82,9 +82,10 @@ export default function RootLayout({
       <body className="min-h-full flex flex-col">
         <Navbar />
         {children}
-        <WhatsAppFloat />
+      
         <FooterSection />
       </body>
+        <WhatsAppFloat />
     </html>
   );
 }

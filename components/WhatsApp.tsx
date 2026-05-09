@@ -4,7 +4,8 @@ import Link from "next/link"
 
 export default function WhatsAppFloat() {
   return (
-    <Link
+<div className="overflow-hidden">
+      <Link
       href="https://wa.me/254703210873"
       target="_blank"
       rel="noopener noreferrer"
@@ -21,5 +22,7 @@ export default function WhatsAppFloat() {
         <path d="M16.01 3C8.84 3 3 8.83 3 16c0 2.53.74 4.99 2.13 7.09L3 29l6.11-2.09A12.93 12.93 0 0 0 16.01 29C23.18 29 29 23.17 29 16S23.18 3 16.01 3zm0 23.67c-2.09 0-4.14-.56-5.93-1.63l-.42-.25-3.63 1.24 1.21-3.54-.27-.44A10.6 10.6 0 0 1 5.33 16c0-5.88 4.79-10.67 10.68-10.67 2.85 0 5.53 1.11 7.54 3.12A10.6 10.6 0 0 1 26.67 16c0 5.89-4.79 10.67-10.66 10.67z" />
       </svg>
     </Link>
+
+</div>
   )
 }

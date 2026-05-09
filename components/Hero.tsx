@@ -9,21 +9,14 @@ export default function Hero() {
         style={{
           backgroundImage:
             "url('/microcement.webp')",
-        }}
-      />
-
-      {/* Dark Overlay */}
-      <div className="" />
-
-      {/* Gradient Overlay */}
-      <div className="absolute inset-0 " />
+        }}      />
 
       {/* Content */}
       <div className="relative z-10 mx-auto flex max-w-5xl flex-col items-center justify-center px-4 py-8 text-center sm:px-0 bg-primary/75 rounded-xl">
       
 
         {/* Heading */}
-        <h1 className="max-w-4xl text-4xl font-bold leading-snug tracking-tight text-white ">
+        <h1 className="max-w-4xl  md:text-4xl text-2xl font-bold leading-snug tracking-tight text-white ">
           Durable, Elegant & Modern{" "}
           <span className="text-secondary">
             Epoxy Flooring & Waterproof
