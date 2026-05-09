@@ -34,7 +34,7 @@ export default function AboutSection() {
         {/* Right Content */}
         <div className="flex flex-col justify-center">  
     
-              <hr className="text-2xl font-bold text-accent mb-12"></hr>
+              <hr className="border-t-2 border-accent mb-12" />
                
           <h3 className="max-w-xl text-3xl font-bold leading-tight text-primary ">
             Epoxy Flooring & Waterproofing Company in Nairobi, Kenya

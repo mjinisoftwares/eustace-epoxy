@@ -19,7 +19,7 @@ export default function Hero() {
         <h1 className="max-w-4xl  md:text-4xl text-2xl font-bold leading-snug tracking-tight text-white ">
           Durable, Elegant & Modern{" "}
           <span className="text-secondary">
-            Epoxy Flooring & Waterproof
+            Microcement,Epoxy & Waterproofing
           </span>{" "}
           Solutions For Homes & Businesses
         </h1>

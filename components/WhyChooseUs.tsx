@@ -65,9 +65,9 @@ export default function WhyChooseUs() {
             Eustace Epoxy LTD delivers professional epoxy flooring,
             microcement, waterproofing, and decorative finishes with
             unmatched quality, reliability, and attention to detail.
-          </p>``
+          </p>
         </div>
-        <hr className="border-1 border-accent/40 max-w-1/2 mx-auto mt-2"></hr>
+        <hr className="border-t border-accent/40 w-1/2 mx-auto mt-2" />
 
         {/* Features Grid */}
         <div className="mt-14 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
