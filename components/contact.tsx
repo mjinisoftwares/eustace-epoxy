@@ -208,7 +208,7 @@ export default function ContactSection() {
             <strong>Email:</strong> info@eustacepoxy.com
           </p>
           <p>
-            <strong>Location:</strong> Kitengela, Nairobi, Kenya
+            <strong>Location:</strong> Kitengela, Kajiado County, Kenya
           </p>
         </div>
       </div>

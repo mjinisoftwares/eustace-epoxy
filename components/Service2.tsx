@@ -15,7 +15,7 @@ const industries = [
     title: "Swimming Pools",
     image: "/swimo.jpg",
     description:
-      "Waterproof and slip-resistant epoxy finishes ideal for swimming pools, pool decks, and wet recreational spaces.",
+      "Selected coating and waterproofing systems for pool surrounds, wet recreational spaces and suitable water-contact applications, subject to specification and site assessment.",
   },
   {
     title: "Flake Flooring",

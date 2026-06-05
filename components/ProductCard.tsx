@@ -7,26 +7,26 @@ const products = [
   {
     title: "Hydropel Waterproofing Membrane",
     description:
-      "Floor and wall bonding solution for tiles on cementitious renders, screeds, and concrete surfaces. Provides strong adhesion and long-lasting waterproof protection for wet and structural areas.",
+      "Waterproofing is a vital process that creates an impenetrable barrier to protect your buildings roof,walls, basements, foundations, underground tanks from water intrusion. Prevents costly leaks and hazardous mold growth.",
     image: "/HYDOPEL-WATERPROOFING-MEMBRANE.png",
     tags: ["Waterproofing", "Tile Bonding", "Concrete"],
   },
   {
-    title: "Epoxy Resin Hardener",
+    title: "Epoxy Resin Flooring Systems",
     description:
-      "Industrial epoxy resin hardener used in epoxy flooring systems, coatings, and heavy-duty applications. Ensures strong curing, durability, and chemical resistance.",
+      "Two-component epoxy resin systems for primers, coatings and self-levelling flooring applications in residential, commercial and industrial spaces.",
     image: "/EPOXY-RESIN-HARDNER.png",
     tags: ["Industrial", "Resin System", "Heavy Duty"],
   },
   {
     title: "SikaTop Seal 107 KE",
     description:
-      "Polymer-modified cementitious waterproofing system designed for flexible waterproofing of bathrooms, water tanks, balconies, basements, and wet areas.",
+      "Two-component, polymer-modified cementitious waterproofing slurry for concrete and masonry surfaces in bathrooms, balconies, basements, water tanks and other suitable wet-area applications.",
     image: "/SIKATOP-SEAL-107.png",
     tags: ["Waterproofing", "Cementitious", "Flexible"],
   },
   {
-    title: "Kelakim Tile Adhesive",
+    title: "Construction Chemicals & Surface Finishing Products",
     description:
       "High-performance tile adhesive for floor and wall applications. Suitable for concrete, screeds, and professional tile installations with strong bonding strength.",
     image: "/Kalekim-3001-IZOSTOP-1.png",
@@ -42,12 +42,10 @@ export default function EpoxyProductsSection() {
         {/* HEADER */}
         <div className="text-center max-w-3xl mx-auto mb-14">
           <h2 className="text-4xl font-bold text-primary">
-            Epoxy Flooring & Waterproofing Products
+            Some of the Epoxy Flooring, Microcement & Waterproofing Products we Use
           </h2>
           <p className="mt-4 text-gray-600">
-            High-performance construction chemicals and epoxy systems used in
-            industrial, commercial, and residential flooring, waterproofing,
-            and surface protection across Kenya.
+            Selected construction chemicals and coating products are available for project supply, subject to stock availability and confirmed specification.
           </p>
         </div>
 

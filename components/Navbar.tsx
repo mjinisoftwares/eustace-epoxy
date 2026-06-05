@@ -51,18 +51,11 @@ export default function Navbar() {
 
         {/* Buttons */}
         <div className="hidden items-center gap-3 md:flex">
-          <Link
-            href="/contact"
-            className="rounded-xl border border-accent px-5 py-2 text-sm text-white hover:bg-secondary"
-          >
-            Get Quote
-          </Link>
-
-          <Link
+                  <Link
             href="/contact"
             className="rounded-xl bg-secondary px-5 py-2 text-sm text-white hover:opacity-90"
           >
-            Contact
+             Get a Free Quote
           </Link>
         </div>
 
@@ -101,20 +94,13 @@ export default function Navbar() {
 
     {/* Buttons */}
     <div className="mt-auto flex flex-col gap-3">
-      <Link
-        href="/contact"
-        onClick={() => setIsOpen(false)}
-        className="rounded-xl border border-secondary px-5 py-3 text-center text-sm font-medium text-white transition hover:bg-secondary"
-      >
-        Get Quote
-      </Link>
-
+     
       <Link
         href="/contact"
         onClick={() => setIsOpen(false)}
         className="rounded-xl bg-secondary px-5 py-3 text-center text-sm font-medium text-white transition hover:opacity-90"
       >
-        Contact
+         Get a Free Quote
       </Link>
     </div>
   </div>

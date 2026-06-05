@@ -27,11 +27,12 @@ export default function Brands() {
         <div className="mb-10 text-center">
         
           <h2 className="mb-2 text-3xl font-bold text-primary md:text-4xl">
-            Clients We&apos;ve Worked With
+            Some of the Clients We&apos;ve Worked With
           </h2>
           <p className="mt-3 text-base leading-relaxed text-gray-600 md:text-lg">
-            Trusted by leading organizations across Kenya for reliable and high-quality flooring solutions.
-          </p>
+          
+          Selected Projects Across Kenya, East and Southern Africa
+Residential, commercial and industrial surface-finishing projects completed in Nairobi, Kajiado, Diani, Kisumu,Lusaka, Kinshasa, Kampala and other locations.   </p>
         </div>
 
         {/* Logos */}

@@ -3,13 +3,14 @@ import {
   Card,
   CardContent,
 } from "@/components/ui/card"
+import { title } from "process"
 
 const services = [
   {
     title: "Microcement Floors & Walls",
     image: "/microcement.webp",
     description:
-      "Seamless decorative cement-based finishes for bathrooms, kitchens, living rooms, feature walls, staircases, countertops, and commercial interiors. Available in natural earthy tones, greys, whites, and custom finishes.",
+      "Seamless decorative finishes for floors, walls, bathrooms, kitchens, staircases, countertops and feature surfaces using our E casacrete microcement system. Available in natural earthy shades, greys, whites and selected custom finishes",
   },
   {
     title: "Venetian Plaster",
@@ -27,20 +28,26 @@ const services = [
     title: "Waterproofing Systems",
     image: "/waterproofing.webp",
     description:
-      "Professional waterproofing solutions for bathrooms, balconies, rooftops, swimming pools, basements, kitchens, and all wet areas using proven coating and cementitious systems.",
+      "Professional waterproofing solutions for bathrooms, showers, balconies, rooftops, water tanks, swimming pools, kitchens and other wet areas using suitable cementitious and coating systems selected for the site condition.",
   },
   {
     title: "Protective Coatings",
     image: "/protective-coating.webp",
     description:
-      "Clear sealers and polyurethane coatings designed to protect concrete and decorative finishes while enhancing durability and appearance.",
+      "Clear sealers and polyurethane protective coatings for microcement, decorative concrete and selected coated surfaces, helping improve stain resistance, durability and appearance.",
   },
   {
     title: "E Casacrete Microcement Products",
     image: "/casacrete.png",
     description:
-      "Premium decorative microcement systems for modern seamless surfaces, designed for floors, walls, bathrooms, and interior or exterior decorative finishes.",
+      "E casacrete is our decorative microcement system developed for seamless modern floors, walls, bathrooms, countertops and feature surfaces.",
   },
+  {
+    title: "Heavy-Duty Epoxy Screed Flooring",
+    image: "/Heavy-Duty-Epoxy-Screed-Flooring.webp",
+    description:
+      "High-performance epoxy screed and industrial flooring solutions for warehouses, workshops, production areas and commercial spaces requiring improved durability under heavy traffic and demanding use.",  
+  }
 ]
 
 export default function ServicesCards() {
@@ -55,9 +62,7 @@ export default function ServicesCards() {
           </h2>
 
           <p className="mt-4 text-white/70 text-lg">
-            We provide premium epoxy flooring solutions designed for
-            durability, beauty, and long-lasting performance across
-            residential, commercial, and industrial spaces.
+            We provide professional surface-finishing systems designed for beauty, durability and lasting performance across residential, commercial and industrial spaces.
           </p>
         </div>
 

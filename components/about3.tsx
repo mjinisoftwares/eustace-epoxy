@@ -176,8 +176,7 @@ const About3 = ({ className }: About3Props) => {
 
       <p className="mt-4 text-base md:text-lg text-gray-600 leading-relaxed">
         Delivering premium epoxy flooring, decorative finishes, and
-        industrial surface solutions across Kenya with unmatched quality
-        and craftsmanship.
+        industrial surface solutions across Kenya.
       </p>
     </div>
 

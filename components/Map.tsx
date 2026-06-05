@@ -4,7 +4,7 @@ export default function MapComponent() {
             <div className="mx-auto max-w-7xl px-6 sm:px-8 md:px-12 lg:px-16">
                 <div className="mb-12 text-center">
                     <h2 className="text-balance text-4xl font-semibold text-primary lg:text-5xl">Our Location</h2>
-                    <p className="mt-4 text-muted-foreground">Visit us at our office to discuss your epoxy flooring project.</p>
+                    <p className="mt-4 text-muted-foreground">Contact us for consultations and site visits.</p>
                 </div>
                 
                 <div className="relative h-[450px] w-full overflow-hidden rounded-3xl shadow-2xl ring-1 ring-primary/10">

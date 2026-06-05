@@ -21,7 +21,7 @@ const footerLinks = [
       { name: "Epoxy Flooring", href: "/services" },
       { name: "Waterproofing Systems", href: "/services" },
       { name: "Protective Coatings", href: "/services" },
-      { name: "ECasacrete Microcement Products", href: "/services" },
+      { name: "E casacrete Microcement Products", href: "/services" },
     ],
   },
 ]
@@ -161,7 +161,7 @@ export default function FooterSection() {
 
               <div className="flex items-start gap-3">
                 <MapPin size={18} className="mt-0.5 text-secondary" />
-                <span>Pork City Kitengela, Nairobi, Kenya</span>
+                <span>Kitengela, Kajiado County, Kenya</span>
               </div>
             </div>
           </div>

@@ -19,16 +19,14 @@ export default function Hero() {
         <h1 className="max-w-4xl  md:text-4xl text-2xl font-bold leading-snug tracking-tight text-white ">
           Durable, Elegant & Modern{" "}
           <span className="text-secondary">
-            Microcement,Epoxy & Waterproofing
+            Microcement, Epoxy & Waterproofing
           </span>{" "}
-          Solutions For Homes & Businesses
+          Solutions for Homes & Businesses
         </h1>
 
         {/* Description */}
         <p className="mt-4 max-w-xl text-base leading-relaxed text-white/80">
-          Transform your residential, commercial, and industrial spaces
-          with high-quality epoxy flooring designed for beauty,
-          durability, and long-lasting performance.
+         Transform your home, commercial space or industrial facility with premium microcement finishes, durable epoxy flooring and dependable waterproofing systems professionally applied across Kenya.
         </p>
 
         {/* Buttons */}
@@ -37,14 +35,14 @@ export default function Hero() {
             href="/quote"
             className="rounded-xl border border-accent px-6 py-3 text-sm text-white hover:bg-secondary"
           >
-            Get Quote
+           Request a Free Quote
           </Link>
 
           <Link
             href="/contact"
             className="rounded-xl bg-secondary px-6  py-3 text-sm text-white hover:opacity-90"
           >
-            Contact
+            WhatsApp Us
           </Link>
         </div>
 

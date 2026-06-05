@@ -9,9 +9,9 @@ import {
 
 const features = [
   {
-    title: "Highly Experienced Professionals",
+    title: "Skilled Application Team",
     description:
-      "Our skilled team is always ready to assist with durable flooring solutions, maintenance, and repairs that keep your surfaces beautiful and long-lasting.",
+      "Our team applies decorative and protective surface systems with careful preparation, disciplined workmanship and attention to final appearance",
     icon: Users,
   },
   {
@@ -58,13 +58,12 @@ export default function WhyChooseUs() {
           </span>
 
           <h2 className="mt-6 text-4xl font-bold tracking-snug leading-snug text-primary ">
-            Why We&apos;re a Trusted <span className="text-secondary">Epoxy & Waterproofing</span> Company in Nairobi, Kenya
-          </h2>
+           Why Clients Choose Eustace Epoxy Ltd for Surface Finishing Projects
+              </h2>
 
           <p className="mt-6 text-base leading-relaxed text-gray-600">
-            Eustace Epoxy LTD delivers professional epoxy flooring,
-            microcement, waterproofing, and decorative finishes with
-            unmatched quality, reliability, and attention to detail.
+            Eustace Epoxy Ltd delivers professional epoxy flooring,
+            microcement, waterproofing, and decorative finishes. We focus on quality workmanship, dependable communication and careful attention to detail throughout every project.
           </p>
         </div>
         <hr className="border-t border-accent/40 w-1/2 mx-auto mt-2" />

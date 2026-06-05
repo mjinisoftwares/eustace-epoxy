@@ -11,8 +11,7 @@ export default function AboutSection() {
             About Us
           </h3>
           <p className="mt-4 text-primary/70 text-lg">
-          Eustace Epoxy Ltd is a company based in Nairobi specializing in microcement, epoxy flooring venetian plaster, waterproofing and protective coating systems. We help homeowners, designers, contractors and businesses create seamless, durable, modern surfaces for both residential and commercial spaces.
-          
+         Eustace Epoxy Ltd is a specialist surface-finishing company based in Kitengela, Kajiado County, serving clients across Nairobi and other parts of Kenya. We specialise in microcement, epoxy flooring, Venetian plaster, waterproofing and protective coating systems for residential, commercial and industrial spaces.
            </p>
         </div>
 
@@ -37,12 +36,11 @@ export default function AboutSection() {
               <hr className="border-t-2 border-accent mb-12" />
                
           <h3 className="max-w-xl text-3xl font-bold leading-tight text-primary ">
-            Epoxy Flooring & Waterproofing Company in Nairobi, Kenya
+           Microcement, Epoxy Flooring & Waterproofing Specialists in Kenya
           </h3>
 
         <p className="mt-6 text-base leading-relaxed text-gray-600">
-        We provide durable, stylish, and easy-to-maintain epoxy flooring solutions for residential, commercial, and industrial spaces. From garages and warehouses to swimming pools and showrooms, our
-        epoxy floors are built for strength, safety, and modern appeal.
+        We create seamless decorative and protective finishes for homes, commercial spaces and industrial facilities. From elegant microcement walls and floors to heavy-duty epoxy systems and waterproofing solutions, our workmanship is built around durability, quality and consistency.
         </p>
           {/* Features */}
           <div className="mt-8 grid grid-cols-1 gap-4 sm:grid-cols-2">
