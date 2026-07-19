@@ -179,6 +179,20 @@ export default function FooterSection() {
           Across Kenya.
         </p>
       </div>
+              {/* Designed By */}
+        <div className="border-t border-primary-foreground/20 pt-4 mt-4 text-center">
+          <p className="text-sm text-gray-300">
+            Designed and handcoded by{" "}
+            <Link
+              href="https://www.mjinidigital.co.ke/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-semibold text-accent hover:underline"
+            >
+              Mjini Digital
+            </Link>
+          </p>
+        </div>
     </footer>
   )
 }
